@@ -1,4 +1,4 @@
-# Lab03DHProgram
+# Lab03DHProgram - The Stateful Interceptor 
 
 A Python lab that demonstrates:
 1) **Diffie–Hellman key exchange** to establish a shared secret,  
